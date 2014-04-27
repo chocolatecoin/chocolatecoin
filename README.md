@@ -23,4 +23,4 @@ Fabcoin intended features
 - Anonymity?
 - Able to be merge mined?
 
-Fabcoin will not be anything new (as a coin), don't fix what isn't broken. The coin will be hevily supported with features to make it literally a gateway coin for quick public adoption.
+Fabcoin will not be anything new (as a coin), don't fix what isn't broken. The coin will be heavily supported with features to make it literally a gateway coin for quick public adoption.
