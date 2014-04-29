@@ -1,4 +1,4 @@
-![alt text](http://computerstudio.eu/private/chocolatecoin.jpg "logo")
+![alt text](http://computerstudio.eu/private/chocolatecoin.png "logo")
 
 Chocolatecoin - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
