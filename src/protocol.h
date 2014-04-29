@@ -97,7 +97,7 @@ class CAddress : public CService
 
         void print() const;
 
-    // TODO: make private (improves encapsulation)
+    // TODO: make private (improves encapsulation)/
     public:
         uint64 nServices;
 
