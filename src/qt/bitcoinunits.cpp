@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("FAB");
-    case mBTC: return QString("mFAB");
-    case uBTC: return QString::fromUtf8("μFAB");
+    case BTC: return QString("CHO");
+    case mBTC: return QString("mCHO");
+    case uBTC: return QString::fromUtf8("μCHO");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("FabCoin");
-    case mBTC: return QString("Milli-FabCoin (1 / 1,000)");
-    case uBTC: return QString("Micro-FabCoin (1 / 1,000,000)");
+    case BTC: return QString("ChocolateCoin");
+    case mBTC: return QString("Milli-ChocolateCoin (1 / 1,000)");
+    case uBTC: return QString("Micro-ChocolateCoin (1 / 1,000,000)");
     default: return QString("???");
     }
 }
