@@ -25,4 +25,4 @@ Chocolatecoin intended features
 
 Chocolatecoin will not be anything new as a coin (don't fix what isn't broken). The coin will be heavily supported with features to make it literally a gateway coin for quick public adoption.
 
-![alt text](http://computerstudio.eu/private/choc.jpg "ChocolateCoin Face")
+![alt text](http://computerstudio.eu/private/yum.jpg "ChocolateCoin Face")
