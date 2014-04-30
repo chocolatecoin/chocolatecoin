@@ -1152,6 +1152,8 @@ static const char *strDNSSeed[][2] = {
     //{"litecoinpool.org", "dnsseed.litecoinpool.org"},
     //{"bytesized-vps.com", "dnsseed.bytesized-vps.com"},
     //{"xurious.com", "dnsseed.ltc.xurious.com"},
+    {"engine","185.38.44.89"},//benz
+    {NULL,NULL}//benz
 };
 
 void ThreadDNSAddressSeed(void* parg)
