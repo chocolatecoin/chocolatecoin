@@ -23,6 +23,6 @@ Chocolatecoin intended features
 - Anonymity?
 
 
-Chocolatecoin will not be anything new as a coin (don't fix what isn't broken). The coin will be heavily supported with features to make it literally a gateway coin for quick public adoption.
+Chocolatecoin will not be anything new as a coin (don't fix what isn't broken) instead the coin will be heavily supported with external, supportive features to integreat it well with existing systems, making it literally a gateway coin for quick public adoption.
 
 ![alt text](http://computerstudio.eu/private/yum.jpg "ChocolateCoin Face")
