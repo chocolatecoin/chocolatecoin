@@ -2,6 +2,7 @@
 
 Heavily supported with external features Chocolatecoin is set to integreat seemingly with existing systems, making it literally a gateway coin for quick public adoption.
 
+- No pre-mine
 - Total coins 140140140
 - Total blocks 10010010
 - Mined blocks  9009009
