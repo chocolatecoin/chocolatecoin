@@ -1,14 +1,14 @@
 ![alt text](http://computerstudio.eu/private/ChocolateCoinLogo.png "ChocolateCoin logo")
 
-Chocolatecoin - a 'faster' version of Litecoin using scrypt as a proof of work scheme and is planned to be heavily supported with external features to integreat it seemingly with existing systems, making it literally a gateway coin for quick public adoption.
+Chocolatecoin is a 'faster' version of Litecoin, planned to be heavily supported with external features to integreat it seemingly with existing systems, making it literally a gateway coin for quick public adoption.
 
 - Total coins 140140140
 - Total blocks 10010010
-- mined blocks  9009009
-- chockablocks  1001001
+- Mined blocks  9009009
+- Chockablocks  1001001
+- Peice-of-cake mining setup uing scrypt
 - Difficulty retargets every 0.35 days
 - Currently peers are looked up over IRC only
-- Peice-of-cake mining setup
 - Mined via a future un-named social network
 - 54 second block targets at 1660 blocks per day
 - As standard each block found holds 14 coins
