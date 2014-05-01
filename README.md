@@ -14,6 +14,7 @@ Chocolatecoin is a 'faster' version of Litecoin, planned to be heavily supported
 - As standard each block found holds 14 coins
 - 125 listed cake days when everyone 'gets cake'! (each chockablock found holds 84 coins) 1000000 / 125 = 8000 (125 days of rewards) 8000 / 1600 = 5 blocks of reward per block found (on each reward day)
 - The last ever, final block to be mined is 'the cherry on top' (holding 14098 coins)
-- The coins magic number {0x43,0x68,0x6f,0x63} spells Choc
+
+0x43 0x68 0x6f 0x63 0x6c 0x61 0x74 0x65 ...C h o c l a t e
 
 ![alt text](http://computerstudio.eu/private/yum.jpg "ChocolateCoin Face")
