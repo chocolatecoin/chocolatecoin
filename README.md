@@ -13,7 +13,7 @@ Heavily supported with external features Chocolatecoin is set to integrate seeml
 - Currently peers are looked up over IRC only
 - Mined via a future un-named social network
 - 54-second block targets at 1660 blocks per day
-- 125 listed Cake days when everyone 'gets cake'! (Each Chockablock found holds 84 coins) 1000000 / 125 = 8000 (125 days of rewards) 8000 / 1600 = 5 blocks of rewards per block found (on each Cake day)
+- 125 listed Cake days when everyone 'gets cake'! (Each Chockablock found holds 84 coins) 1000000 / 125 = 8000 (125 days of rewards) 8000 / 1660 = 5 blocks of rewards per block found (on each Cake day)
 - The last ever, final block to be mined is the 'Cherry On Top' (holding 14098 coins)
 
 (List of Cake Days coming soon)
