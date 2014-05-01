@@ -26,6 +26,11 @@
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_4">
         <item>
+        
+        <property name="pixmap">
+         <pixmap resource="../bitcoin.qrc">:/images/backg</pixmap>
+        </property>
+        
          <layout class="QHBoxLayout" name="horizontalLayout_4">
           <item>
            <widget class="QLabel" name="label_5">
