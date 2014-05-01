@@ -1,6 +1,6 @@
 ![alt text](http://computerstudio.eu/private/ChocolateCoinLogo.png "ChocolateCoin logo")
 
-Planned to be heavily supported with external features Chocolatecoin is set to integreat seemingly with existing systems, making it literally a gateway coin for quick public adoption.
+Heavily supported with external features Chocolatecoin is set to integreat seemingly with existing systems, making it literally a gateway coin for quick public adoption.
 
 - Total coins 140140140
 - Total blocks 10010010
